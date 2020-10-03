@@ -1,0 +1,7 @@
+.ftco-speakers{
+display : flex;
+flex-wrap : nowrap;
+flex-flow : column;
+margin : 10px;
+padding : 10px;
+}
